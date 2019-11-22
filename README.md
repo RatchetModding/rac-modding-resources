@@ -38,7 +38,7 @@ These level editors are also a good code reference for the file formats used in 
 These savegame editors can also be a good resource for a list of value addresses as used in savegames.
 
  - [rac-savegame-editor](https://github.com/maikelwever/rac-savegame-editor) - A savegame editor for the Ratchet and Clank series of games (PS2, PS3, PSVita). `C#` `GTK3` `GPL-3.0`
- - [Ratchet and Clank Save Editor](https://www.nextgenupdate.com/forums/ps3-trophies-game-saves/718082-release-ratchet-clank-save-editor-all-1.html) - [Presumed source](https://github.com/primetime43/Playstation-3-Tools/tree/master/Ratchet%20%26%20Clank%20Into%20the%20Nexus%20Save%20Editor/Red-EyeX32%20-%20Test%20Drive%20Unlimited%202%20Save%20Editor) - Save editor for all the Ratchet and Clanks `C#` `Winforms`
+ - [Ratchet and Clank Save Editor](https://www.nextgenupdate.com/forums/ps3-trophies-game-saves/718082-release-ratchet-clank-save-editor-all-1.html) ([Presumed source](https://github.com/primetime43/Playstation-3-Tools/tree/master/Ratchet%20%26%20Clank%20Into%20the%20Nexus%20Save%20Editor/Red-EyeX32%20-%20Test%20Drive%20Unlimited%202%20Save%20Editor)) - Save editor for all the Ratchet and Clanks `C#` `Winforms`
  - [RC-checksum](https://github.com/stiantoften/RC-checksum) - Ratchet & Clank save.bin checksum repair tool. `Cross-platform`
 
 
@@ -70,9 +70,9 @@ These savegame editors can also be a good resource for a list of value addresses
  - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework. `Cross-platform` `Apache-2.0`
     - [Ghidra Emotion Engine plugin](https://github.com/beardypig/ghidra-emotionengine) - Ghidra support plugin for the PS2's Emotion Engine.
     - [Ghidra PS3 scripts](https://github.com/zecoxao/ps3_ghidra) - A collection of scripts/loaders/plugins for ghidra used to aid ps3 reverse engineering.
- - [PCSX2](https://pcsx2.net/) - [Source code](https://github.com/PCSX2/pcsx2) - A free and open-source PlayStation 2 (PS2) emulator, with debugger. `Windows` `Linux` `GPL-2.0`
- - [RPCS3](https://rpcs3.net/) - [Source code](https://github.com/RPCS3/rpcs3) - The world's first free and open-source PlayStation 3 emulator/debugger. `Windows` `Linux` `GPL-2.0`
- - [Cheat Engine](https://www.cheatengine.org/) - [Source code](https://github.com/cheat-engine/cheat-engine/) - A development environment focused on modding games and applications for personal use. `Windows` `LGPL-2.0`
+ - [PCSX2](https://pcsx2.net/) ([Source code](https://github.com/PCSX2/pcsx2)) - A free and open-source PlayStation 2 (PS2) emulator, with debugger. `Windows` `Linux` `GPL-2.0`
+ - [RPCS3](https://rpcs3.net/) ([Source code](https://github.com/RPCS3/rpcs3)) - The world's first free and open-source PlayStation 3 emulator/debugger. `Windows` `Linux` `GPL-2.0`
+ - [Cheat Engine](https://www.cheatengine.org/) ([Source code](https://github.com/cheat-engine/cheat-engine/)) - A development environment focused on modding games and applications for personal use. `Windows` `LGPL-2.0`
  - [Scanmem & Game Conqueror](https://github.com/scanmem/scanmem) - A debugging utility and GUI designed to isolate the address of an arbitrary variable in an executing process. `Linux` `GPL-3.0` 
 
 
