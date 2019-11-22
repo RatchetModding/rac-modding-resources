@@ -48,6 +48,7 @@ These savegame editors can also be a good resource for a list of value addresses
 
  - [ig-tools](https://github.com/doesthisusername/ig-tools) - Tools for modding and reversing Ratchet & Clank (PS4) `Python` `C`
  - [PSARC reference and tools list](https://www.psdevwiki.com/ps3/PlayStation_archive_(PSARC)) - Doc about PSARC file format and links to tools for dealing with PSARC archives.
+ - [wadutil](https://github.com/stiantoften/wadutil) - A utility to decompress Ratchet & Clank .wad files `C` `Cross-platform`
 
 
 
