@@ -50,6 +50,7 @@ These savegame editors can also be a good resource for a list of value addresses
  - [PSARC reference and tools list](https://www.psdevwiki.com/ps3/PlayStation_archive_(PSARC)) - Doc about PSARC file format and links to tools for dealing with PSARC archives.
  - [wadutil](https://github.com/stiantoften/wadutil) - A utility to decompress Ratchet & Clank .wad files `C` `Cross-platform`
  - [rac-dvd-toc-parser](https://github.com/maikelwever/rac-dvd-toc-parser) - Simple Python script to get hidden files from PS2 disc image. `Python` `GPL-3.0`
+ - [PIFconvert](https://github.com/stiantoften/PIFconvert/) - Converter/parser for PIF files from PS2 editions. `C` `Cross-platform`
 
 
 ## Spreadsheets with various info
