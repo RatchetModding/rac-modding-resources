@@ -29,7 +29,7 @@ These level editors are also a good code reference for the file formats used in 
 
  - [Replanetizer](https://github.com/game-fuckery-inc/replanetizer) - Level editor for the PS3 trilogy remasters.  `C#` `WinForms`
  - [RatchetLevelEditor](https://github.com/badger41/RatchetLevelEditor) - Previous level editor for the PS3 trilogy remasters. `C#` `WinForms`
-
+ - [Wrench Editor](https://github.com/chaoticgd/wrench) - A set of modding tools for the PS2 games. `C++` `Dear ImGui`
 
 ## Savegame editors
 
