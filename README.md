@@ -37,7 +37,8 @@ These level editors are also a good code reference for the file formats used in 
 
 These savegame editors can also be a good resource for a list of value addresses as used in savegames.
 
- - [rac-savegame-editor](https://github.com/maikelwever/rac-savegame-editor) - A savegame editor for the Ratchet and Clank series of games (PS2, PS3, PSVita). `C#` `GTK3` `GPL-3.0`
+ - [Slim's Editor](https://github.com/maikelwever/slimseditor) - A savegame editor for the Ratchet and Clank games. `Python 3` `Windows` `Linux` `Dear ImGui` `GPL-3.0`
+ - [rac-savegame-editor](https://github.com/maikelwever/rac-savegame-editor) - Old version of the savegame editor for the Ratchet and Clank series of games (PS2, PS3, PSVita). `C#` `GTK3` `GPL-3.0`
  - [Ratchet and Clank Save Editor](https://www.nextgenupdate.com/forums/ps3-trophies-game-saves/718082-release-ratchet-clank-save-editor-all-1.html) ([Presumed source](https://github.com/primetime43/Playstation-3-Tools/tree/master/Ratchet%20%26%20Clank%20Into%20the%20Nexus%20Save%20Editor/Red-EyeX32%20-%20Test%20Drive%20Unlimited%202%20Save%20Editor)) - Save editor for all the Ratchet and Clanks `C#` `Winforms`
  - [RC-checksum](https://github.com/stiantoften/RC-checksum) - Ratchet & Clank save.bin checksum repair tool. `Cross-platform`
 
