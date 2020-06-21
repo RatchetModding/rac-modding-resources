@@ -48,6 +48,7 @@ These savegame editors can also be a good resource for a list of value addresses
 **[`^        back to top        ^`](#)**
 
  - [ig-tools](https://github.com/doesthisusername/ig-tools) - Tools for modding and reversing Ratchet & Clank (PS4) `Python` `C`
+ - [PSArcFS](https://github.com/maikelwever/psarcfs) - A very crude and not very optimized FUSE handler for .psarc files. Supports ZLIB and LZMA compression. `Rust` `Linux` `GPL-3.0`
  - [PSARC reference and tools list](https://www.psdevwiki.com/ps3/PlayStation_archive_(PSARC)) - Doc about PSARC file format and links to tools for dealing with PSARC archives.
  - [wadutil](https://github.com/stiantoften/wadutil) - A utility to decompress Ratchet & Clank .wad files `C` `Cross-platform`
  - [rac-dvd-toc-parser](https://github.com/maikelwever/rac-dvd-toc-parser) - Simple Python script to get hidden files from PS2 disc image. `Python` `GPL-3.0`
