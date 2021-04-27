@@ -19,6 +19,7 @@ Please note that some of the listed tools might be a Work in Progress.
   - [File parsers and archive extractors](#file-parsers-and-archive-extractors)
   - [Spreadsheets with various info](#spreadsheets-with-various-info)
   - [Reverse engineering tools](#reverse-engineering-tools)
+  - [Miscellaneous](#miscellaneous)
 - [Legal stuff](#legal-stuff)
 
 
@@ -91,7 +92,11 @@ These savegame editors can also be a good resource for a list of value addresses
  - [Cheat Engine](https://www.cheatengine.org/) ([Source code](https://github.com/cheat-engine/cheat-engine/)) - A development environment focused on modding games and applications for personal use. `Windows` `LGPL-2.0`
  - [Scanmem & Game Conqueror](https://github.com/scanmem/scanmem) - A debugging utility and GUI designed to isolate the address of an arbitrary variable in an executing process. `Linux` `GPL-3.0` 
 
+## Miscellaneous
 
+**[`^        back to top        ^`](#)**
+
+ - [MobyViewer](https://github.com/CreepNT/MobyViewer) - A tool to view the Moby table of games in real-time. `C++` `Dear Imgui`
 
 # Legal stuff
 
