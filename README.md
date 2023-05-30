@@ -97,6 +97,7 @@ These savegame editors can also be a good resource for a list of value addresses
 
  - [MobyViewer](https://github.com/CreepNT/MobyViewer) - A tool to view the Moby table of games in real-time. `C++` `Dear Imgui`
  - [RacREpo](https://github.com/CreepNT/RacREpo) - Stash repository which contains scripts, tools and documentation. `Public Domain`
+ - [RatchetHax](https://github.com/ParadoxEpoch/RatchetHax) - A Node.js based trainer and API for the Ratchet & Clank series. `Cross-platform` `GPL-3.0`
 
 # Legal stuff
 
